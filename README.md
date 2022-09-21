@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailelg1&label=Profile%20views&color=0e75b6&style=flat" alt="ismailelg1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailelg1" alt="ismailelg1" /></a> </p>
-
 - 🔭 I’m currently working on [developing my frontend skills](https://github.com/ismailElg1/DEV5-portfolio)
 
 - 🌱 I’m currently learning **Node.js, Three.js, Vue, MongoDB**
