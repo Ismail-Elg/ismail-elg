@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Node.js, Three.js, Vue, MongoDB**
 
-- ⚡ Fun fact **I love to Game and watch Anime! 🎮**
-
 <p align="left">
 </p>
 
