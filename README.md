@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Node.js, Three.js, Vue, MongoDB**
 
+- check out my portfolio [ismail.live](https://www.ismail.live)
+
 <p align="left">
 </p>
 
