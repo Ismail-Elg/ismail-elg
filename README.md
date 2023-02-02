@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [developing my frontend skills](https://github.com/ismailElg1/DEV5-portfolio)
 
-- 🌱 I’m currently learning **Node.js, Three.js, Vue, MongoDB**
+- 🌱 I’m currently learning **Three.js, Vue, Nuxt**
 
 - check out my portfolio [ismail.live](https://www.ismail.live)
 
