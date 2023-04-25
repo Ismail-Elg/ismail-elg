@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailelg1&label=Profile%20views&color=0e75b6&style=flat" alt="ismailelg1" /> </p>
 
-- 🔭 I’m currently working on [developing my frontend skills](https://github.com/ismailElg1/DEV5-portfolio)
-
-- 🌱 I’m currently learning **Three.js, Vue, Nuxt**
-
-- check out my portfolio [ismail.live](https://www.ismail.live)
+- 😶‍🌫️ I’m currently working on developing my frontend skills by learning **Three.js, Nuxt, React, Next**
 
 <p align="left">
 </p>
