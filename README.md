@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailelg1&label=Profile%20views&color=0e75b6&style=flat" alt="ismailelg1" /> </p>
 
-- 😶‍🌫️ I’m currently working on developing my frontend skills by learning **Three.js, r3f, Nuxt, React, Next**
+- 😶‍🌫️ I’m currently working on developing my frontend skills by learning **r3f, Nuxt, React, Next, Sanity**
 
 <p align="left">
 </p>
